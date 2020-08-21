@@ -15,8 +15,8 @@ namespace WindTurbineDataGenerator
 
     internal class Program
     {
-        private const string EventHubNamespaceConnectionString = "Endpoint=sb://migrateehsar1.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=LAAt4+WR8dyQAi3RslxHdtj8anpoPztYtQjWUn2YRf0=";
-        private const string EventHubName = "hubdatamigration";
+        private const string EventHubNamespaceConnectionString = "";
+        private const string EventHubName = "";
 
         private static int Main()
         {
