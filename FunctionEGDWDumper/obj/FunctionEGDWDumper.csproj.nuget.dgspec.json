@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\POCs\\EventHubsCaptureEventGridDemo\\FunctionEGDWDumper\\FunctionEGDWDumper.csproj": {}
+  },
+  "projects": {
+    "D:\\POCs\\EventHubsCaptureEventGridDemo\\FunctionEGDWDumper\\FunctionEGDWDumper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\POCs\\EventHubsCaptureEventGridDemo\\FunctionEGDWDumper\\FunctionEGDWDumper.csproj",
+        "projectName": "FunctionEGDWDumper",
+        "projectPath": "D:\\POCs\\EventHubsCaptureEventGridDemo\\FunctionEGDWDumper\\FunctionEGDWDumper.csproj",
+        "packagesPath": "C:\\Users\\saravich.NORTHAMERICA\\.nuget\\packages\\",
+        "outputPath": "D:\\POCs\\EventHubsCaptureEventGridDemo\\FunctionEGDWDumper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\saravich.NORTHAMERICA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\saravich.NORTHAMERICA\\Downloads\\Hydroxyurea Application\\HdxApi\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "Apache.Avro": {
+              "target": "Package",
+              "version": "[1.7.7.2, )"
+            },
+            "Microsoft.Azure.WebJobs.Extensions.EventGrid": {
+              "target": "Package",
+              "version": "[1.0.0-beta4, )"
+            },
+            "Microsoft.NET.Sdk.Functions": {
+              "target": "Package",
+              "version": "[1.0.13, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

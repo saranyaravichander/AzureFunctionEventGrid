@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "StorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=migratestoresar1;AccountKey=BRkK7XaGYll3QWIMeCt7czCzOaNCQiP7qM1D8sECON3hAcCrStaMejuyKnKdiKAgg/GrtVhN80+fyL0BJQo/xw==",
+    "SqlDwConnection": "Server=tcp:migratedbsar1.database.windows.net,1433;Database=migratedbpoolsar;Trusted_Connection=False;User ID=saradmin@migratedbsar1;Password=Password01*;Connection Timeout=30;Encrypt=True"
+  }
+}
